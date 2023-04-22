@@ -1,4 +1,4 @@
-real = float(input('Enter how much you have in reais: '))
+real = float(input('Enter how much you have in reais: R$'))
 
 dolar = real * 3.27
 
